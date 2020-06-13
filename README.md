@@ -5,3 +5,6 @@ This is a Docker image of PyTorch to be used on Raspberry Pi or other ARM device
 ## TODO
 
 - [ ] Add torchvision
+
+
+- [ ] Failed on my Pi
